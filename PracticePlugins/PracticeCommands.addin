@@ -1,0 +1,16 @@
+﻿<?xml version ="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Floor To Walls Plugin</Name>
+		<FullClassName>PracticePlugins.FloorFromWallsPlugin</FullClassName>
+		<Assembly>
+			PracticePlugins.dll
+		</Assembly>
+		<AddInId>
+			507EC694-1B82-4F14-B4DF-4B907EAFE88E
+		</AddInId>
+		<VendorId>OmarPlugins</VendorId>
+		<VendorDescription>BIM Developer</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

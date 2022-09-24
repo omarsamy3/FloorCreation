@@ -1,0 +1,7 @@
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\bin\x64\Debug\PracticeCommands.addin
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\bin\x64\Debug\PracticePlugins.dll
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\bin\x64\Debug\PracticePlugins.pdb
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\obj\x64\Debug\PracticePlugins.csproj.AssemblyReference.cache
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\obj\x64\Debug\PracticePlugins.csproj.CoreCompileInputs.cache
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\obj\x64\Debug\PracticePlugins.dll
+E:\A1Programming\1My.CEI Program\BIM III\Revit API\Coding22\PracticePlugins\PracticePlugins\obj\x64\Debug\PracticePlugins.pdb
